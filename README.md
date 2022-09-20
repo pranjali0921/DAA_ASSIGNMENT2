@@ -1,5 +1,10 @@
 # DAA_ASSIGNMENT2
-##Assignment Question:
+Name : Pranjali Joshi
+Sec : A
+Roll No : 13
+Branch : CSE - 1
+Subject : DAA
+## Assignment Question:
 Implement the solution for sorting the array in which each element is defined as [a,b] for example [2,3].
 Input: "1": Result: Sorted array: on value "a"
 Input: "2": Result: Sorted array on value "b"
